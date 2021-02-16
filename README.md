@@ -21,23 +21,19 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-42423c?&style=flat&logo=javascript&logoColor=F7DF1E">&nbsp;
 <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?&style=flat&logo=node.js&logoColor=F7F7F7">&nbsp;
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-42423c?&style=flat&logo=markdown&logoColor=F7F7F7">&nbsp;
-<br>
 
   - Framework <br>
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?&style=flat&logo=spring&logoColor=F7F7F7"/>&nbsp; 
 <img alt="Express" src="https://img.shields.io/badge/Express-42423c?&style=flat&logo=express&logoColor=ffffff">&nbsp;
-  <br>
 
   - Database <br>
 <img alt="MySql" src="https://img.shields.io/badge/MySql-F7F7F7?&style=flat&logo=mysql&logoColor=336791">&nbsp;
 <img alt="PostgreSql" src="https://img.shields.io/badge/Postgresql-F7F7F7?&style=flat&logo=postgresql&logoColor=336791">&nbsp;
 <img alt="Redis" src="https://img.shields.io/badge/Redis-D12B1F?&style=flat&logo=redis&logoColor=F7F7F7">&nbsp;
-<br>
 
   - DevOps <br>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?&style=flat&logo=docker&logoColor=ffffff">&nbsp;
 <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?&style=flat&logo=kubernetes&logoColor=ffffff">&nbsp;
-<br>
 
   - Tool <br>
 <img alt="VsCode" src="https://img.shields.io/badge/VisualStudioCode-007ACC?&style=flat&logo=visual-studio-code&logoColor=ffffff">&nbsp;
@@ -49,7 +45,6 @@
 <img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-7B68EE?&style=flat&logo=clickup&logoColor=ffffff">&nbsp;
 <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?&style=flat&logo=zoom&logoColor=ffffff">&nbsp;
 <img alt="AnyDesk" src="https://img.shields.io/badge/AnyDesk-EF443B?&style=flat&logo=anydesk&logoColor=ffffff">&nbsp;
-<br>
 
   - Other <br>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?&style=flat&logo=git&logoColor=ffffff">&nbsp;
