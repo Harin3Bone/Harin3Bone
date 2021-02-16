@@ -3,7 +3,6 @@
 <!-- **Harin3Bone/Harin3Bone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### ✨ &nbsp;About Me
-
 - 🔭 I’m working on [Achivers](https://www.achievers.co.th/)
 - ❤️ I'm currently Back-End Developer
 - 🌱 I’m on track for learning more about Java, Spring Boot, Android 
@@ -17,44 +16,62 @@
 <!-- - 🤔 I’m looking for help with ... -->
 
 ### 🛠 &nbsp;Tech Stack
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"/>&nbsp;
-<img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white"/>&nbsp;
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white"/>&nbsp;
-<img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat"/>&nbsp;
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>&nbsp;
-<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat&logo=postgresql&logoColor=white"/>&nbsp;
-<img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat&logo=docker&logoColor=white"/>&nbsp;
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white"/>&nbsp;
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat&logo=github&logoColor=white"/>&nbsp;
+  - Programming Language <br>
+<img alt="Java" src="https://img.shields.io/badge/Java-E32C2E?logo=Java&style=flat&logoColor=ffffff"/>&nbsp;
+<img alt="JavaScript" src="https://img.shields.io/badge/Javascript-42423c?&style=flat&logo=javascript&logoColor=F7DF1E">&nbsp;
+<img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?&style=flat&logo=node.js&logoColor=F7F7F7">&nbsp;
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-42423c?&style=flat&logo=markdown&logoColor=F7F7F7">&nbsp;
+<br>
 
-<!-- <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=flat&logo=kotlin&logoColor=white"/>&nbsp; -->
-<!-- <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>&nbsp; -->
-<!-- <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />&nbsp; -->
-<!-- <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>&nbsp; -->
-<!-- <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=flat&logo=kubernetes&logoColor=white"/>&nbsp; -->
-<!-- <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white"/>&nbsp; -->
-<!-- <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white"/>&nbsp; -->
-<!-- <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white"/>&nbsp; -->
-<!-- <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=flat&logo=SASS&logoColor=white"/>&nbsp; -->
-<!-- <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white"/>&nbsp; -->
-<!-- <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat&logo=vue.js&logoColor=%234FC08D"/>&nbsp; -->
+  - Framework <br>
+<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?&style=flat&logo=spring&logoColor=F7F7F7"/>&nbsp; 
+<img alt="Express" src="https://img.shields.io/badge/Express-42423c?&style=flat&logo=express&logoColor=ffffff">&nbsp;
+  <br>
+
+  - Database <br>
+<img alt="MySql" src="https://img.shields.io/badge/MySql-F7F7F7?&style=flat&logo=mysql&logoColor=336791">&nbsp;
+<img alt="PostgreSql" src="https://img.shields.io/badge/Postgresql-F7F7F7?&style=flat&logo=postgresql&logoColor=336791">&nbsp;
+<img alt="Redis" src="https://img.shields.io/badge/Redis-D12B1F?&style=flat&logo=redis&logoColor=F7F7F7">&nbsp;
+<br>
+
+  - DevOps <br>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?&style=flat&logo=docker&logoColor=ffffff">&nbsp;
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?&style=flat&logo=kubernetes&logoColor=ffffff">&nbsp;
+<br>
+
+  - Tool <br>
+<img alt="VsCode" src="https://img.shields.io/badge/VisualStudioCode-007ACC?&style=flat&logo=visual-studio-code&logoColor=ffffff">&nbsp;
+<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?&style=flat&logo=eclipse&logoColor=ffffff">&nbsp;
+<img alt="AndroidStd" src="https://img.shields.io/badge/AndroidStudio-3DDC84?&style=flat&logo=android-studio&logoColor=ffffff">&nbsp;
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?&style=flat&logo=postman&logoColor=ffffff">&nbsp;
+<img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE?&style=flat&logo=insomnia&logoColor=ffffff">&nbsp;
+<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?&style=flat&logo=slack&logoColor=ffffff">&nbsp;
+<img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-7B68EE?&style=flat&logo=clickup&logoColor=ffffff">&nbsp;
+<img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?&style=flat&logo=zoom&logoColor=ffffff">&nbsp;
+<img alt="AnyDesk" src="https://img.shields.io/badge/AnyDesk-EF443B?&style=flat&logo=anydesk&logoColor=ffffff">&nbsp;
+<br>
+
+  - Other <br>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?&style=flat&logo=git&logoColor=ffffff">&nbsp;
+<img alt="Github" src="https://img.shields.io/badge/Github-181717?&style=flat&logo=github&logoColor=ffffff">&nbsp; 
+<img alt="RabbitMq" src="https://img.shields.io/badge/RabbitMq-FF6600?&style=flat&logo=rabbitmq&logoColor=FFFFFF">&nbsp;
+<img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?&style=flat&logo=apache-kafka&logoColor=F7F7F7">&nbsp;
+<img alt="SwaggerUi" src="https://img.shields.io/badge/SwaggerUi-85EA2D?&style=flat&logo=swagger&logoColor=231F20">&nbsp;
+<img alt="OpenApi" src="https://img.shields.io/badge/OpenApi-6BA539?&style=flat&logo=openapi-initiative&logoColor=F7F7F7">&nbsp;
+
+<!-- <img alt="" src="https://img.shields.io/badge/-?&style=flat&logo=&logoColor=">&nbsp; -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/Harin3Bone">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harin3Bone&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harin3Bone&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harin3Bone&theme=algolia"> -->
 </a>
 </p>
 
-<!-- ### ⏲️ &nbsp;WakaTime Weekly
-<p align="center">
-<a><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harin3Bone&theme=vision-friendly-dark"></a>
-</p> -->
-<!-- ### 💬 &nbsp;Contact Me
-![](https://img.shields.io/twitter/url?label=Harin%20Thananam&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FHarin3Bone%2F)&nbsp;
-![](https://img.shields.io/twitter/url?label=Harin3Bone&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2FHarin3Bone)&nbsp; -->
-<!-- <h4>Credit: <a href="https://github.com/Harin3Bone">Harin Thananam</a></h4>
-<h4>Last Edited on: 16/02/2021</h4> -->
+<!-- ### ⏲️ &nbsp;WakaTime Weekly -->
+<!-- <p align="center"><a><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harin3Bone&theme=vision-friendly-dark"></a></p> -->
+
+<!-- ### 💬 &nbsp;Connect Me -->
+<!-- ![](https://img.shields.io/twitter/url?label=Harin%20Thananam&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FHarin3Bone%2F)&nbsp; -->
+<!-- ![](https://img.shields.io/twitter/url?label=Harin3Bone&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2FHarin3Bone)&nbsp; -->
