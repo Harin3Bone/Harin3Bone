@@ -49,12 +49,10 @@
 </a>
 </p>
 
-### ⏲️ &nbsp;WakaTime Weekly
+<!-- ### ⏲️ &nbsp;WakaTime Weekly
 <p align="center">
-<a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harin3Bone&theme=vision-friendly-dark">
-</a>
-</p>
+<a><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harin3Bone&theme=vision-friendly-dark"></a>
+</p> -->
 <!-- ### 💬 &nbsp;Contact Me
 ![](https://img.shields.io/twitter/url?label=Harin%20Thananam&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FHarin3Bone%2F)&nbsp;
 ![](https://img.shields.io/twitter/url?label=Harin3Bone&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2FHarin3Bone)&nbsp; -->
