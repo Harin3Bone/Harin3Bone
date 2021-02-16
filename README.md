@@ -1,4 +1,4 @@
-### Hi there, I'm Boom 👋
+## Hi there, I'm Boom 👋
 A junior backend developer with passionate in programming
 <hr>
 <!-- **Harin3Bone/Harin3Bone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
