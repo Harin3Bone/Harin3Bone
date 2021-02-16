@@ -2,7 +2,7 @@
 
 <!-- **Harin3Bone/Harin3Bone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### ✨ About Me
+### ✨ &nbsp;About Me
 
 - 🔭 I’m working on Achivers
 - ❤️ I'm currently Back-End Developer
@@ -15,7 +15,6 @@
 <!-- 💡 🔥-->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
 
 ### 🛠 &nbsp;Tech Stack
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"/>&nbsp;
@@ -50,6 +49,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harin3Bone&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<!-- <hr>
-<h4>Credit: <a href="https://github.com/Harin3Bone">Harin Thananam</a></h4>
+
+<!-- ### 💬 &nbsp;Contact Me
+![](https://img.shields.io/twitter/url?label=Harin%20Thananam&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FHarin3Bone%2F)&nbsp;
+![](https://img.shields.io/twitter/url?label=Harin3Bone&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2FHarin3Bone)&nbsp; -->
+<!-- <h4>Credit: <a href="https://github.com/Harin3Bone">Harin Thananam</a></h4>
 <h4>Last Edited on: 16/02/2021</h4> -->
