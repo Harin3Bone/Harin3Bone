@@ -41,15 +41,20 @@
 <!-- <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat&logo=vue.js&logoColor=%234FC08D"/>&nbsp; -->
 
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/Harin3Bone">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harin3Bone&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harin3Bone&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harin3Bone&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harin3Bone&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harin3Bone&theme=algolia"> -->
 </a>
 </p>
 
+### ⏲️ &nbsp;WakaTime Weekly
+<p align="center">
+<a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harin3Bone&theme=vision-friendly-dark">
+</a>
+</p>
 <!-- ### 💬 &nbsp;Contact Me
 ![](https://img.shields.io/twitter/url?label=Harin%20Thananam&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FHarin3Bone%2F)&nbsp;
 ![](https://img.shields.io/twitter/url?label=Harin3Bone&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2FHarin3Bone)&nbsp; -->
