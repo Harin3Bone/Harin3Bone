@@ -26,6 +26,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harin3Bone&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<hr>
-<h3>Credit: <a href="https://github.com/Harin3Bone">Harin Thananam</a></h3>
-<h3>Last Edited on: 16/02/2021</h3>
+<!-- <hr>
+<h4>Credit: <a href="https://github.com/Harin3Bone">Harin Thananam</a></h4>
+<h4>Last Edited on: 16/02/2021</h4> -->
