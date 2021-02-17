@@ -67,6 +67,11 @@
 <!-- ### ⏲️ &nbsp;WakaTime Weekly -->
 <!-- <p align="center"><a><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harin3Bone&theme=vision-friendly-dark"></a></p> -->
 
-<!-- ### 💬 &nbsp;Connect Me -->
-<!-- ![](https://img.shields.io/twitter/url?label=Harin%20Thananam&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2FHarin3Bone%2F)&nbsp; -->
-<!-- ![](https://img.shields.io/twitter/url?label=Harin3Bone&logo=Github&style=social&url=https%3A%2F%2Fgithub.com%2FHarin3Bone)&nbsp; -->
+### 💬 &nbsp;Connect Me
+![Facebook](https://img.shields.io/badge/Harin_Thananam-F7F7F7?logo=facebook&link=https://www.facebook.com/Harin3Bone//left) &nbsp;
+![Instagram](https://img.shields.io/badge/Harin_Thananam-e4405f?logo=instagram&logoColor=f7f7f7&link=//left) &nbsp;
+![Linkedin](https://img.shields.io/badge/Harin_Thananam-0a66c2?logo=linkedin&logoColor=&link=//left) &nbsp;
+![Line](https://img.shields.io/badge/Harin_Thananam-00c300?logo=line&logoColor=ffffff&link=//left) &nbsp;
+![Twitter](https://img.shields.io/badge/Harin_Thananam-1da1f2?logo=twitter&logoColor=ffffff&link=//left) &nbsp;
+<!-- <a href ="https://www.facebook.com/Harin3Bone"></a><img 
+src="https://img.shields.io/badge/Harin_Thananam-F7F7F7?logo=facebook">&nbsp; -->
