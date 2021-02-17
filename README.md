@@ -69,9 +69,10 @@
 
 ### 💬 &nbsp;Connect Me
 <!-- ![Facebook](https://img.shields.io/badge/Harin_Thananam-F7F7F7?logo=facebook) &nbsp; -->
+<p>
 <a href ="https://www.facebook.com/Harin3Bone/"><img src="https://img.shields.io/badge/Harin_Thananam-F7F7F7?logo=facebook"></a> &nbsp;
-
-![Instagram](https://img.shields.io/badge/Harin_Thananam-e4405f?logo=instagram&logoColor=f7f7f7&link=//left) &nbsp;
-![Linkedin](https://img.shields.io/badge/Harin_Thananam-0a66c2?logo=linkedin&logoColor=&link=//left) &nbsp;
-![Line](https://img.shields.io/badge/Harin_Thananam-00c300?logo=line&logoColor=ffffff&link=//left) &nbsp;
-![Twitter](https://img.shields.io/badge/Harin_Thananam-1da1f2?logo=twitter&logoColor=ffffff&link=//left) &nbsp;
+<a href ="https://www.instagram.com/harin_hirokun/"><img src="https://img.shields.io/badge/Harin_Thananam-e4405f?logo=instagram&logoColor=f7f7f7"></a> &nbsp;
+<a href =""><img src="https://img.shields.io/badge/Harin_Thananam-0a66c2?logo=linkedin&logoColor="></a> &nbsp;
+<a href =""><img src="https://img.shields.io/badge/Harin_Thananam-00c300?logo=line&logoColor=ffffff"></a> &nbsp;
+<a href =""><img src="https://img.shields.io/badge/Harin_Thananam-1da1f2?logo=twitter&logoColor=ffffff"></a> &nbsp;
+</p>
