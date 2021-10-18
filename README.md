@@ -23,7 +23,6 @@
 <img alt="Java" src="https://img.shields.io/badge/Java-E32C2E?logo=Java&style=flat&logoColor=ffffff"/>&nbsp;
 <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-42423c?&style=flat&logo=javascript&logoColor=F7DF1E">&nbsp;
 <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?&style=flat&logo=node.js&logoColor=F7F7F7">&nbsp;
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-42423c?&style=flat&logo=markdown&logoColor=F7F7F7">&nbsp;
 
   - Framework <br>
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?&style=flat&logo=spring&logoColor=F7F7F7"/>&nbsp; 
@@ -52,14 +51,17 @@
   - Other <br>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?&style=flat&logo=git&logoColor=ffffff">&nbsp;
 <img alt="Github" src="https://img.shields.io/badge/Github-181717?&style=flat&logo=github&logoColor=ffffff">&nbsp; 
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-42423c?&style=flat&logo=markdown&logoColor=F7F7F7">&nbsp;
 <img alt="RabbitMq" src="https://img.shields.io/badge/RabbitMq-FF6600?&style=flat&logo=rabbitmq&logoColor=FFFFFF">&nbsp;
-<img alt="Apache" src="https://shields.io/badge/Apache-d22128?style=flat&logo=apache&logoColor=FFFFFF">&nbsp;
 <img alt="Maven" src="https://shields.io/badge/Maven-c71a36?style=flat&logo=apache-maven&logoColor=F7F7F7">&nbsp;
 <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?&style=flat&logo=apache-kafka&logoColor=F7F7F7">&nbsp;
 <img alt="SwaggerUi" src="https://img.shields.io/badge/SwaggerUi-85EA2D?&style=flat&logo=swagger&logoColor=231F20">&nbsp;
 <img alt="OpenApi" src="https://img.shields.io/badge/OpenApi-6BA539?&style=flat&logo=openapi-initiative&logoColor=F7F7F7">&nbsp;
 
-<!-- <img alt="" src="https://img.shields.io/badge/-?&style=flat&logo=&logoColor=">&nbsp; -->
+<!-- 
+<img alt="" src="https://img.shields.io/badge/-?&style=flat&logo=&logoColor=">&nbsp;
+<img alt="Apache" src="https://shields.io/badge/Apache-d22128?style=flat&logo=apache&logoColor=FFFFFF">&nbsp; 
+-->
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
