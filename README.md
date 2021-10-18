@@ -40,13 +40,13 @@
   - Tool <br>
 <img alt="VsCode" src="https://img.shields.io/badge/VisualStudioCode-007ACC?&style=flat&logo=visual-studio-code&logoColor=ffffff">&nbsp;
 <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?&style=flat&logo=eclipse&logoColor=ffffff">&nbsp;
-<img alt="AndroidStd" src="https://img.shields.io/badge/AndroidStudio-3DDC84?&style=flat&logo=android-studio&logoColor=ffffff">&nbsp;
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?&style=flat&logo=postman&logoColor=ffffff">&nbsp;
 <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE?&style=flat&logo=insomnia&logoColor=ffffff">&nbsp;
 <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?&style=flat&logo=slack&logoColor=ffffff">&nbsp;
 <img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-7B68EE?&style=flat&logo=clickup&logoColor=ffffff">&nbsp;
 <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?&style=flat&logo=zoom&logoColor=ffffff">&nbsp;
 <img alt="AnyDesk" src="https://img.shields.io/badge/AnyDesk-EF443B?&style=flat&logo=anydesk&logoColor=ffffff">&nbsp;
+<!-- <img alt="AndroidStd" src="https://img.shields.io/badge/AndroidStudio-3DDC84?&style=flat&logo=android-studio&logoColor=ffffff">&nbsp; -->
 
   - Other <br>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?&style=flat&logo=git&logoColor=ffffff">&nbsp;
@@ -71,8 +71,8 @@
 </a>
 </p>
 
-<!-- ### ⏲️ &nbsp;WakaTime Weekly -->
-<!-- <p align="center"><a><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harin3Bone&theme=vision-friendly-dark"></a></p> -->
+<!-- ### ⏲️ &nbsp;WakaTime Weekly
+<p align="left"><a><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harin3Bone&theme=vision-friendly-dark&v=2"></a></p> -->
 
 ### 💬 &nbsp;Connect Me
 <!-- ![Facebook](https://img.shields.io/badge/Harin_Thananam-F7F7F7?logo=facebook) &nbsp; -->
