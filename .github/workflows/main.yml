@@ -14,3 +14,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: d88f8de2-8614-4248-9585-5a51d048abcd
+          COMMIT_MESSAGE: Update wakatime daily
+          SHOW_TITLE: true
+          SHOW_TIME: false
