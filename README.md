@@ -88,3 +88,5 @@
 <a href =""><img src="https://img.shields.io/badge/Harin_Thananam-00c300?logo=line&logoColor=ffffff"></a> &nbsp;
 <a href =""><img src="https://img.shields.io/badge/Harin_Thananam-1da1f2?logo=twitter&logoColor=ffffff"></a> &nbsp;
 </p>
+
+<!-- ![visitor](https://visitor-badge.glitch.me/badge?page_id=Harin3Bone.Harin3Bone&left_text=Visitors) -->
