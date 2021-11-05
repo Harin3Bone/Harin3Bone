@@ -2,7 +2,6 @@
 <!-- A junior backend developer with passionate in programming -->
 <!-- **Harin3Bone/Harin3Bone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
 ### ✨ &nbsp;About Me
 - 🔭 I’m working on [Achivers](https://www.achievers.co.th/)
 - ❤️ I'm currently Back-End Developer and love Microservice architecture
@@ -11,7 +10,6 @@
 - 💬 Something I don't know today, That doesn't mean I don't know tomorrow.
 - 📫 How to reach me: harin.thananam@gmail.com
 - ✨ Fun fact: I want to change my main OS to Linux. Because it really cool when people look at me.
-
 
 <!-- 💡 🔥 ⚡-->
 <!-- - 👯 I’m looking to collaborate on ... -->
