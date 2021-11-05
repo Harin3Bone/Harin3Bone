@@ -76,6 +76,13 @@
 <p align="left"><a><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harin3Bone&theme=vision-friendly-dark&v=2"></a></p> 
 -->
 <!--START_SECTION:waka-->
+```text
+Java       10 hrs 12 mins  ███████████▓░░░░░░░░░░░░░   47.15 % 
+SQL        4 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.01 % 
+Other      3 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+YAML       2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Markdown   41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+```
 <!--END_SECTION:waka-->
 
 
