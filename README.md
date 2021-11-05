@@ -71,8 +71,13 @@
 </a>
 </p>
 
-<!-- ### ⏲️ &nbsp;WakaTime Weekly
-<p align="left"><a><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harin3Bone&theme=vision-friendly-dark&v=2"></a></p> -->
+### ⏲️ &nbsp;WakaTime Weekly
+<!-- 
+<p align="left"><a><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harin3Bone&theme=vision-friendly-dark&v=2"></a></p> 
+-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ### 💬 &nbsp;Connect Me
 <!-- ![Facebook](https://img.shields.io/badge/Harin_Thananam-F7F7F7?logo=facebook) &nbsp; -->
