@@ -4,12 +4,13 @@
 
 ### ✨ &nbsp;About Me
 - 🔭 I’m working on [Achivers](https://www.achievers.co.th/)
-- ❤️ I'm currently Back-End Developer and love Microservice architecture
-- 🌱 I’m on track for learning more about Java, Spring Boot, Android 
+- ❤️ I'm currently Back-End Developer and love Microservice architecture.
+- 🌱 I’m on track for learning more about Java, Spring Boot, Android and Docker
+- 💡 Next step of learning I want to know more about Kotlin and Kubernetes 
 - 🎓 Graduate Computer Engineering RMUTT 2019
 - 💬 Something I don't know today, That doesn't mean I don't know tomorrow.
 - 📫 How to reach me: harin.thananam@gmail.com
-- ✨ Fun fact: I want to change my main OS to Linux. Because it really cool when people look at me.
+- ✨ Fun fact: I want to have experience in Google Cloud Platform but now I work with Microsoft Azure
 
 <!-- 💡 🔥 ⚡-->
 <!-- - 👯 I’m looking to collaborate on ... -->
