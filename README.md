@@ -6,7 +6,7 @@
 - 🔭 I’m working on [Achivers](https://www.achievers.co.th/)
 - ❤️ I'm currently Back-End Developer and love Microservice architecture.
 - 🌱 I’m on track for learning more about Java, Spring Boot, Android and Docker
-- 💡 Next step of learning I want to know more about Kotlin and Kubernetes 
+- 💡 Next step of learning I want to know more about Go, Flutter and Kubernetes 
 - 🎓 Graduate Computer Engineering RMUTT 2019
 - 💬 Something I don't know today, That doesn't mean I don't know tomorrow.
 - 📫 How to reach me: harin.thananam@gmail.com
