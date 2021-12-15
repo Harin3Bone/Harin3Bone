@@ -24,7 +24,7 @@
 <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?&style=flat&logo=node.js&logoColor=F7F7F7">&nbsp;
 
   - Framework <br>
-<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?&style=flat&logo=spring&logoColor=F7F7F7"/>&nbsp; 
+<img alt="Spring" src="https://img.shields.io/badge/Spring_Boot-6DB33F?&style=flat&logo=spring&logoColor=F7F7F7"/>&nbsp; 
 <img alt="Express" src="https://img.shields.io/badge/Express-42423c?&style=flat&logo=express&logoColor=ffffff">&nbsp;
 
   - Database <br>
