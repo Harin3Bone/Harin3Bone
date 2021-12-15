@@ -92,9 +92,10 @@ XML          ██░░░░░░░░░░░░░░░░░░░░�
 <p>
 <a href ="https://www.facebook.com/Harin3Bone/"><img src="https://img.shields.io/badge/Harin_Thananam-F7F7F7?logo=facebook"></a> &nbsp;
 <a href ="https://www.instagram.com/harin_hirokun/"><img src="https://img.shields.io/badge/Harin_Thananam-e4405f?logo=instagram&logoColor=f7f7f7"></a> &nbsp;
-<a href =""><img src="https://img.shields.io/badge/Harin_Thananam-0a66c2?logo=linkedin&logoColor="></a> &nbsp;
-<a href =""><img src="https://img.shields.io/badge/Harin_Thananam-00c300?logo=line&logoColor=ffffff"></a> &nbsp;
-<a href =""><img src="https://img.shields.io/badge/Harin_Thananam-1da1f2?logo=twitter&logoColor=ffffff"></a> &nbsp;
+<a href ="https://www.linkedin.com/in/harin3bone/"><img src="https://img.shields.io/badge/Harin_Thananam-0a66c2?logo=linkedin&logoColor="></a> &nbsp;
+
+<!-- <a href =""><img src="https://img.shields.io/badge/Harin_Thananam-00c300?logo=line&logoColor=ffffff"></a> &nbsp;   -->
+<!-- <a href =""><img src="https://img.shields.io/badge/Harin_Thananam-1da1f2?logo=twitter&logoColor=ffffff"></a> &nbsp; -->
 </p>
 
 <!-- ![visitor](https://visitor-badge.glitch.me/badge?page_id=Harin3Bone.Harin3Bone&left_text=Visitors) -->
