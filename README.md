@@ -67,10 +67,9 @@
 <a href="https://github.com/Harin3Bone">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harin3Bone&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harin3Bone&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harin3Bone&theme=github_dark">
 </a>
 </p>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harin3Bone&theme=github_dark)
 
 ### ⏲️ &nbsp;WakaTime Weekly
 <!-- 
