@@ -17,5 +17,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILE_ACCESS_TOKEN }}
         with:
           USERNAME: Harin3Bone
+          COMMIT_MESSAGE: Update profile stat daily
 
 # Credit: https://github.com/marketplace/actions/github-profile-summary-cards
