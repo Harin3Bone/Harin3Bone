@@ -70,6 +70,8 @@
 </a>
 </p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harin3Bone&theme=github_dark)
+
 ### ⏲️ &nbsp;WakaTime Weekly
 <!-- 
 <p align="left"><a><img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harin3Bone&theme=vision-friendly-dark&v=2"></a></p> 
