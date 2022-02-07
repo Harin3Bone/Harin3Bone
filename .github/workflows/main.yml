@@ -3,7 +3,6 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
     - cron: "0 0 * * *"
 
 jobs:
@@ -17,3 +16,5 @@ jobs:
           COMMIT_MESSAGE: Update wakatime daily
           SHOW_TITLE: true
           SHOW_TIME: false
+
+# Credit: https://github.com/marketplace/actions/waka-readme

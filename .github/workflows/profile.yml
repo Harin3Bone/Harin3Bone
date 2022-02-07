@@ -1,4 +1,4 @@
-name: GitHub-Profile-Summary-Cards
+name: GitHub Profile Summary Cards
 
 on:
   schedule:
@@ -17,3 +17,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILE_ACCESS_TOKEN }}
         with:
           USERNAME: Harin3Bone
+
+# Credit: https://github.com/marketplace/actions/github-profile-summary-cards
