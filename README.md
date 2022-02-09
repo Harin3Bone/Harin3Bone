@@ -71,9 +71,9 @@
 </a>
 </p>
 -->
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harin3Bone&theme=github_dark)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harin3Bone&theme=github_dark)
-![Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harin3Bone&theme=github_dark)
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harin3Bone&theme=dracula)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harin3Bone&theme=dracula)
+![Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harin3Bone&theme=dracula)
 
 ### ⏲️ &nbsp;WakaTime Weekly
 <!-- 
