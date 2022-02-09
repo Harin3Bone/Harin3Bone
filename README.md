@@ -77,7 +77,7 @@
 -->
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
 Bash       ███████████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   28.05 % 
 Java       ███████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   27.77 % 
