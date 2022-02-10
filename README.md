@@ -35,6 +35,7 @@
   - DevOps <br>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?&style=flat&logo=docker&logoColor=ffffff">&nbsp;
 <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?&style=flat&logo=kubernetes&logoColor=ffffff">&nbsp;
+<img alt="Nginx" src="https://img.shields.io/badge/Nginx-brightgreen?&style=flat&logo=nginx&logoColor=ffffff">&nbsp;
 
   - Tool <br>
 <img alt="VsCode" src="https://img.shields.io/badge/VisualStudioCode-007ACC?&style=flat&logo=visual-studio-code&logoColor=ffffff">&nbsp;
