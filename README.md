@@ -87,7 +87,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2022 - To: 08 June 2022
+From: 02 June 2022 - To: 09 June 2022
 
 Java                                                   ████████████▓░░░░░░░░░░░░   51.03 %
 MDX                                                    ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
