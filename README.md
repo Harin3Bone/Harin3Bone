@@ -123,6 +123,9 @@ Other                            █░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+### 🎵 Now playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yhqq7ofbbx21sivvc4akj0d6p&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=yhqq7ofbbx21sivvc4akj0d6p&redirect=true)
+
 ### 💬 &nbsp;Connect Me
 
 <p>
