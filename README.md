@@ -23,7 +23,7 @@
 
 ### 🛠 &nbsp;Tech Stack
   - Programming Language <br>
-![Java](https://img.shields.io/badge/Java-E32C2E?logo=Java&style=flat&logoColor=ffffff)&nbsp;
+![Java](https://img.shields.io/badge/Java-E32C2E?logo=OpenJDK&style=flat&logoColor=ffffff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-42423c?&style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?&style=flat&logo=typescript&logoColor=F7F7F7)&nbsp;
 ![NodeJs](https://img.shields.io/badge/Node.js-339933?&style=flat&logo=node.js&logoColor=F7F7F7)&nbsp;
