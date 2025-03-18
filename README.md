@@ -3,10 +3,10 @@
 <!-- **Harin3Bone/Harin3Bone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### ✨ &nbsp;About Me
-- 🔭 I’m working on [SS&C Technologies](https://www.ssctech.com/)
-- ❤️ I'm currently Fullstack Developer and love Microservice architecture.
+- 🔭 I’m working on [SS&C Technologies](https://www.ssctech.com/).
+- ❤️ I'm currently perform role Sr. Software Engineer.
 - 🌱 I’m on track for learning more about Java, Spring Boot, Angular and Kubernetes.
-- 💡 Next step of learning I just want to graduate at Master Degree.
+- 💡 Next step I just want to graduate at Master Degree at [KU](https://cs.sci.ku.ac.th/home)
 - 🎓 Bachelor's Degree in Computer Engineering at [RMUTT](https://cpe.engineer.rmutt.ac.th/)
 - 💬 Something I don't know today, That doesn't mean I don't know tomorrow.
 - 📫 How to reach me: harin.thananam@gmail.com
@@ -28,10 +28,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?&style=flat&logo=typescript&logoColor=F7F7F7)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?&style=flat&logo=python&logoColor=F7F7F7)&nbsp;
 
+
   - Framework <br>
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?&style=flat&logo=spring&logoColor=F7F7F7)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?&style=flat&logo=angular&logoColor=F7F7F7)&nbsp;
 ![Express](https://img.shields.io/badge/Express-42423c?&style=flat&logo=express&logoColor=ffffff)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?&style=flat&logo=nestjs&logoColor=ffffff)&nbsp;
 
 <!--
 ![AngularJs](https://img.shields.io/badge/AngularJs-DD0031?&style=flat&logo=angularjs&logoColor=F7F7F7)&nbsp;
@@ -52,9 +54,11 @@
 ![Redis](https://img.shields.io/badge/Redis-D12B1F?&style=flat&logo=redis&logoColor=F7F7F7)&nbsp;
 ![Prometheus](https://img.shields.io/badge/Prometheus-e6522c?&style=flat&logo=prometheus&logoColor=ffffff)&nbsp;
 
+
   - DevOps <br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?&style=flat&logo=docker&logoColor=ffffff)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?&style=flat&logo=kubernetes&logoColor=ffffff)&nbsp;
+![Github_Actions](https://img.shields.io/badge/Github_Actions-231F20?&style=flat&logo=githubactions&logoColor=ffffff)&nbsp;
 ![Grafana](https://img.shields.io/badge/Grafana-231F20?&style=flat&logo=grafana&logoColor=F46800)&nbsp;
 ![Argo](https://img.shields.io/badge/Argo-110e50?&style=flat&logo=argo&logoColor=EF7B4D)&nbsp;
 
@@ -66,10 +70,13 @@
   - Miscellaneous <br>
 ![Git](https://img.shields.io/badge/Git-F05032?&style=flat&logo=git&logoColor=ffffff)&nbsp;
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?&style=flat&logo=apache-kafka&logoColor=F7F7F7)&nbsp;
+![Nifi](https://img.shields.io/badge/Nifi-728E9B?&style=flat&logo=apache-nifi&logoColor=F7F7F7)&nbsp;
+![Superset](https://img.shields.io/badge/Superset-20A6C9?&style=flat&logo=apache-superset&logoColor=F7F7F7)&nbsp;
 ![OpenApi](https://img.shields.io/badge/OpenApi-6BA539?&style=flat&logo=openapi-initiative&logoColor=F7F7F7)&nbsp;
 ![Graphql](https://img.shields.io/badge/GraphQL-E10098?&style=flat&logo=graphql&logoColor=F7F7F7)&nbsp;
 ![Maven](https://shields.io/badge/Maven-c71a36?style=flat&logo=apache-maven&logoColor=F7F7F7)&nbsp;
 ![NodeJs](https://img.shields.io/badge/Node.js-339933?&style=flat&logo=node.js&logoColor=F7F7F7)&nbsp;
+![Anaconda](https://img.shields.io/badge/Anaconda-231F20?&style=flat&logo=anaconda&logoColor=44A833)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-42423c?&style=flat&logo=markdown&logoColor=F7F7F7)&nbsp;
 <!--
 ![Github](https://img.shields.io/badge/Github-181717?&style=flat&logo=github&logoColor=ffffff)&nbsp;
@@ -86,7 +93,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-b4e472?&style=flat&logo=pycharm&logoColor=0c1234)&nbsp;
 ![DataGrip](https://img.shields.io/badge/Data_Grip-9168e6?&style=flat&logo=datagrip&logoColor=0c1234)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?&style=flat&logo=postman&logoColor=ffffff)&nbsp;
-![Lens](https://img.shields.io/badge/Lens-3D90CE?&style=flat&logo=lens&logoColor=ffffff)&nbsp;
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?&style=flat&logo=rancher&logoColor=ffffff)&nbsp;
 
 <!--
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?&style=flat&logo=zoom&logoColor=ffffff)&nbsp;
@@ -96,6 +103,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?&style=flat&logo=slack&logoColor=ffffff)&nbsp;
 ![Android](https://img.shields.io/badge/AndroidStudio-3DDC84?&style=flat&logo=android-studio&logoColor=ffffff)&nbsp; 
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?&style=flat&logo=clickup&logoColor=ffffff)&nbsp;
+![Lens](https://img.shields.io/badge/Lens-3D90CE?&style=flat&logo=lens&logoColor=ffffff)&nbsp;
 -->
 
 ### ⚙️ &nbsp;GitHub Analytics
