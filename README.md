@@ -4,10 +4,11 @@
 
 ### ✨ &nbsp;About Me
 - 🔭 I’m working on [SS&C Technologies](https://www.ssctech.com/).
-- ❤️ I'm currently perform role Sr. Software Engineer.
+- 💡 I'm currently perform role Sr. Software Engineer.
 - 🌱 I’m on track for learning more about Java, Spring Boot, Angular and Kubernetes.
-- 💡 Next step I just want to graduate at Master Degree at [KU](https://cs.sci.ku.ac.th/home)
-- 🎓 Bachelor's Degree in Computer Engineering at [RMUTT](https://cpe.engineer.rmutt.ac.th/)
+- ❤️ My likes and interests are games, anime, and manga.
+- 👨‍💻 Next step I try to graduate at Master Degree at [KU](https://cs.sci.ku.ac.th/home)
+- 🎓 Bachelor Degree in Computer Engineering at [RMUTT](https://cpe.engineer.rmutt.ac.th/)
 - 💬 Something I don't know today, That doesn't mean I don't know tomorrow.
 - 📫 How to reach me: harin.thananam@gmail.com
 
@@ -21,53 +22,40 @@
 <!-- - 😄 Pronouns: he/him/ -->
 <!-- - ✨ New project I want to working is Gacha Simulator -->
 
-### 🛠 &nbsp;Tech Stack
-  - Programming Language <br>
+### 🛠 &nbsp;Tech Stack  
+
+- Programming Language  
 ![Java](https://img.shields.io/badge/Java-E32C2E?logo=OpenJDK&style=flat&logoColor=ffffff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-42423c?&style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?&style=flat&logo=typescript&logoColor=F7F7F7)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?&style=flat&logo=python&logoColor=F7F7F7)&nbsp;
 
-
-  - Framework <br>
+- Framework  
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?&style=flat&logo=spring&logoColor=F7F7F7)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?&style=flat&logo=angular&logoColor=F7F7F7)&nbsp;
 ![Express](https://img.shields.io/badge/Express-42423c?&style=flat&logo=express&logoColor=ffffff)&nbsp;
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?&style=flat&logo=nestjs&logoColor=ffffff)&nbsp;
 
-<!--
-![AngularJs](https://img.shields.io/badge/AngularJs-DD0031?&style=flat&logo=angularjs&logoColor=F7F7F7)&nbsp;
--->
-
-  - Testing <br>
+- Testing  
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?&style=flat&logo=junit5&logoColor=F7F7F7)&nbsp;
 ![Cucumber](https://img.shields.io/badge/Cucumber-153343?&style=flat&logo=cucumber&logoColor=23D96C)&nbsp;
-![Playwright](https://img.shields.io/badge/Playwright-153343?&style=flat&logo=playwright&logoColor=242526)&nbsp;
+![Selenium](https://img.shields.io/badge/Selenium-153343?&style=flat&logo=selenium)&nbsp;
 
-<!-- 
-![Mockito](https://img.shields.io/badge/Mockito-10B591?&style=flat&logo=mockito&logoColor=F7F7F7)
--->
-
-  - Database <br>
+- Database  
 ![Mysql](https://img.shields.io/badge/MySQL-F7F7F7?&style=flat&logo=mysql&logoColor=336791)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-F7F7F7?&style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-D12B1F?&style=flat&logo=redis&logoColor=F7F7F7)&nbsp;
 ![Prometheus](https://img.shields.io/badge/Prometheus-e6522c?&style=flat&logo=prometheus&logoColor=ffffff)&nbsp;
 
-
-  - DevOps <br>
+- DevOps  
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?&style=flat&logo=rancher&logoColor=ffffff)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?&style=flat&logo=docker&logoColor=ffffff)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?&style=flat&logo=kubernetes&logoColor=ffffff)&nbsp;
 ![Github_Actions](https://img.shields.io/badge/Github_Actions-231F20?&style=flat&logo=githubactions&logoColor=ffffff)&nbsp;
 ![Grafana](https://img.shields.io/badge/Grafana-231F20?&style=flat&logo=grafana&logoColor=F46800)&nbsp;
 ![Argo](https://img.shields.io/badge/Argo-110e50?&style=flat&logo=argo&logoColor=EF7B4D)&nbsp;
 
-<!--
-![Nginx](https://img.shields.io/badge/Nginx-brightgreen?&style=flat&logo=nginx&logoColor=ffffff)&nbsp;
-![Kong](https://img.shields.io/badge/Kong-003459?&style=flat&logo=kong&logoColor=13af95)&nbsp;
--->
-
-  - Miscellaneous <br>
+- Miscellaneous  
 ![Git](https://img.shields.io/badge/Git-F05032?&style=flat&logo=git&logoColor=ffffff)&nbsp;
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?&style=flat&logo=apache-kafka&logoColor=F7F7F7)&nbsp;
 ![Nifi](https://img.shields.io/badge/Nifi-728E9B?&style=flat&logo=apache-nifi&logoColor=F7F7F7)&nbsp;
@@ -77,23 +65,15 @@
 ![Maven](https://shields.io/badge/Maven-c71a36?style=flat&logo=apache-maven&logoColor=F7F7F7)&nbsp;
 ![NodeJs](https://img.shields.io/badge/Node.js-339933?&style=flat&logo=node.js&logoColor=F7F7F7)&nbsp;
 ![Anaconda](https://img.shields.io/badge/Anaconda-231F20?&style=flat&logo=anaconda&logoColor=44A833)&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-42423c?&style=flat&logo=markdown&logoColor=F7F7F7)&nbsp;
-<!--
-![Github](https://img.shields.io/badge/Github-181717?&style=flat&logo=github&logoColor=ffffff)&nbsp;
-![RabbitMq](https://img.shields.io/badge/RabbitMq-FF6600?&style=flat&logo=rabbitmq&logoColor=FFFFFF)&nbsp;
-![SwaggerUi](https://img.shields.io/badge/SwaggerUi-85EA2D?&style=flat&logo=swagger&logoColor=231F20)&nbsp;
-![Apache](https://shields.io/badge/Apache-d22128?style=flat&logo=apache&logoColor=FFFFFF)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-42423c?&style=flat&logo=markdown&logoColor=F7F7F7)&nbsp;  
 
--->
-
-  - Tool <br>
+- Tool  
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?&style=flat&logo=visual-studio-code&logoColor=ffffff)&nbsp;
 ![Idea](https://img.shields.io/badge/Intellij_IDEA-0f5ced?&style=flat&logo=intellij-idea&logoColor=0c1234)&nbsp;
 ![WebStorm](https://img.shields.io/badge/Web_Storm-11b0fe?&style=flat&logo=webstorm&logoColor=0c1234)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-b4e472?&style=flat&logo=pycharm&logoColor=0c1234)&nbsp;
 ![DataGrip](https://img.shields.io/badge/Data_Grip-9168e6?&style=flat&logo=datagrip&logoColor=0c1234)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?&style=flat&logo=postman&logoColor=ffffff)&nbsp;
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?&style=flat&logo=rancher&logoColor=ffffff)&nbsp;
 
 <!--
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?&style=flat&logo=zoom&logoColor=ffffff)&nbsp;
@@ -137,20 +117,20 @@ XML                                     █▓░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<!-- 
 ### 🎵 Now playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yhqq7ofbbx21sivvc4akj0d6p&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=yhqq7ofbbx21sivvc4akj0d6p&redirect=true)
+-->
 
+<!--
 ### 💬 &nbsp;Connect Me
-
 <p>
-<a href ="https://www.facebook.com/Harin3Bone/"><img src="https://img.shields.io/badge/Harin_Thananam-F7F7F7?logo=facebook"></a> &nbsp;
+<a href ="https://www.facebook.com/Harin3Bone/"><img src="https://img.shields.io/badge/Harin_Thananam-F7F7F7?logo=facebook&logoColor=0a66c2"></a> &nbsp;
 <a href ="https://www.instagram.com/harin_hirokun/"><img src="https://img.shields.io/badge/Harin_Thananam-e4405f?logo=instagram&logoColor=f7f7f7"></a> &nbsp;
-<a href ="https://www.linkedin.com/in/harin3bone/"><img src="https://img.shields.io/badge/Harin_Thananam-0a66c2?logo=linkedin&logoColor="></a> &nbsp;
-</p>
 
-<!-- 
 <a href =""><img src="https://img.shields.io/badge/Harin_Thananam-00c300?logo=line&logoColor=ffffff"></a> &nbsp;  
 <a href =""><img src="https://img.shields.io/badge/Harin_Thananam-1da1f2?logo=twitter&logoColor=ffffff"></a> &nbsp;
-
+<a href ="https://www.linkedin.com/in/harin3bone/"><img src="https://img.shields.io/badge/Harin_Thananam-0a66c2?logo=linkedin&logoColor="></a> &nbsp;
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=Harin3Bone.Harin3Bone&left_text=Visitors) 
+</p>
 -->
